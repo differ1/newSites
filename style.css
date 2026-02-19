@@ -1,0 +1,52 @@
+h1{
+    text-align:center;
+    color:rgb(68, 53, 165);
+    font-size: 75px;
+}
+.vstuplenie{
+    font-size: 25px;
+    border: 5px solid;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(51, 255, 0);
+}
+.sell1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(51, 255, 0);
+    border: 3px solid;
+    width: 200px;
+    width: 50%; margin: 0 auto;
+    margin: 20px 250px 20px 250px;
+}
+.sell2{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(51, 255, 0);
+    border: 3px solid;
+    width: 200px;
+    width: 50%; margin: 0 auto;
+    margin: 20px 250px 20px 250px;
+}
+
+.sell3{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(51, 255, 0);
+    border: 3px solid;
+    width: 200px;
+    width: 50%; margin: 0 auto;
+    margin: 20px 250px 20px 250px;
+}
+
+   
+
+
+
+
+
+
